@@ -1,4 +1,4 @@
-# Sports Analytics (Cricket) Report
+# Sports Analytics (Cricket) 
 # Objective:
 The primary goal of this data analysis project is to evaluate the fitness and performance of cricket players in preparation for an upcoming T20 game. The analysis will focus on understanding each player's current form and historical performance. The insights gained will aid team management in making informed decisions regarding player selection and strategies for the upcoming game. 
 # Dataset:
